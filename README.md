@@ -1,4 +1,5 @@
-# UnityChan-cewit2018
+# UnityChan-cewit2018 (VR Dev: Best Virtual Environment)
+https://devpost.com/software/unitychan-cewit2018
 
 Game Application --> Unity_Chan(cewit2018)
 
